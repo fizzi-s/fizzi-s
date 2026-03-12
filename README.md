@@ -5,6 +5,7 @@
 🧩 Goal: Stanford CS and Building meanigfull web apps
 
 🎈 Currently focused on exams - big plans after!
+
 ---
 ##⚡Skills
 - **HTML** - Building webpages

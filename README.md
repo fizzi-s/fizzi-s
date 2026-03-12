@@ -2,7 +2,7 @@
 
 🎓 11th Grade student | Aspiring Software Engineer
 
-🧩 Goal: Stanford CS and Building meanigfull web apps
+🧩 Goal: Stanford CS and Building meaningfull web apps
 
 🎈 Currently focused on exams - big plans after!
 

@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Fizza 👋 
+🎓 11th Grade student | Aspiring Software Engineer
+🧩 Goal: Stanford CS and Building meanigfull web apps
+Currently focused on exams - big plans after!
+---
+##⚡Skills
+- **HTML** - Building webpages
+- **JavaScript** - DOM Manipulation, building interactive projects
+- **Python** Core programming concepts & logic building
+- **C++** - Fundamentals & problem solving 
+- **Practicing DSA on** LeetCode
+  
+ ## 🤖 Projects
+- 🧮 Calculator - Built with Python & C++
+- ➗ Math Programs - Division, multiplication, factorial logic in Python
+- 🌐 Webpage Experiments - Text Effects & color changes with JS and HTML
 
-<!--
-**fizzi-s/fizzi-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Currently Building
+- 🍳 Egg Timer (in progress)
+- 🌡️ Weather App (soon to start)
+- ✔️ ToDo App (Soon to start)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Learning Roadmap
+- CSS (styling websites)
+- JavaScript (deepening)
+- React.js (building web apps)
+- APIs and backend development
+- Launch my first real web app 
+  

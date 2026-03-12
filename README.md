@@ -1,7 +1,10 @@
 # Hi there, I'm Fizza 👋 
+
 🎓 11th Grade student | Aspiring Software Engineer
+
 🧩 Goal: Stanford CS and Building meanigfull web apps
-Currently focused on exams - big plans after!
+
+🎈 Currently focused on exams - big plans after!
 ---
 ##⚡Skills
 - **HTML** - Building webpages

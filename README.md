@@ -7,7 +7,7 @@
 🎈 Currently focused on exams - big plans after!
 
 ---
-##⚡Skills
+#⚡Skills
 - **HTML** - Building webpages
 - **JavaScript** - DOM Manipulation, building interactive projects
 - **Python** Core programming concepts & logic building
